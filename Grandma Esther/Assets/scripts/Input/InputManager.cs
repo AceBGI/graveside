@@ -27,7 +27,7 @@ public class InputManager : MonoBehaviour , IInputManager{
 
         set
         {
-            throw new System.NotImplementedException();
+
         }
     }
 
